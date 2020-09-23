@@ -2,7 +2,8 @@ package com.sample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//add to master branch
+
+//add to master branch 
 @SpringBootApplication
 public class SampleApplication {
 
